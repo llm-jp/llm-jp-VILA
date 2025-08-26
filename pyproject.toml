@@ -22,7 +22,7 @@ dependencies = [
     "accelerate>=0.27.2",
     "peft>=0.5.0",
     "bitsandbytes>=0.41.0",
-    "pydantic<2,>=1",
+    "pydantic>=2.0.0",
     "markdown2[all]",
     "numpy>=1.26.4",
     "scikit-learn>=1.2.2",
